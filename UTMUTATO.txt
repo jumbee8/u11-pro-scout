@@ -1,0 +1,18 @@
+U11 PRO Scout 1.0 – TELEPÍTÉS
+
+1. Hozz létre egy nyilvános GitHub-tárhelyet (repository), például u11-pro-scout néven.
+2. Töltsd fel a négy fájlt a tárhely gyökerébe: index.html, manifest.webmanifest, sw.js, icon.svg.
+3. Settings > Pages > Build and deployment: Deploy from a branch; main; /(root); Save.
+4. A GitHub Pages megadja az ingyenes https://felhasznalo.github.io/u11-pro-scout/ címet.
+5. iPhone Safari: nyisd meg a címet > Megosztás > Hozzáadás a Főképernyőhöz.
+6. Először a Játékosok fülön vedd fel a keretet, majd a Mérkőzések fülön indíts meccset és válassz 2–3 játékost.
+7. A Mentés fülön rendszeresen tölts le JSON biztonsági mentést. Az Elemzés fülön CSV-export készül, amit az Excel megnyit.
+
+FONTOS
+- A GitHub Pages-en az alkalmazás kódja nyilvános, de a helyileg rögzített játékosadatokat nem töltjük fel a GitHubra.
+- Ne tölts fel JSON-mentést vagy valódi gyermekadatokat a nyilvános GitHub-tárhelyre.
+- A telefonon tárolt adatok nem szinkronizálódnak automatikusan más készülékekre.
+- Első megnyitáskor internet kell; ezután a telepített alkalmazás offline is működhet.
+- Az iOS tárhelytisztítása adatvesztést okozhat, ezért rendszeresen készíts mentést.
+- Az alkalmazásnak nincs felhasználói bejelentkezése vagy szerveroldali jelszóvédelme.
+- A játékosok személyes adatainak kezeléséhez megfelelő jogosultság és adatvédelmi gyakorlat szükséges.
